@@ -44,7 +44,7 @@
     "webpack-merge": "^5.9.0"
   },
   "dependencies": {
-    "@anton.bobrov/vevet-init": "^3.7.1",
+    "@anton.bobrov/react-dat-gui": "^3.0.4",
     "normalize.css": "^8.0.1",
     "ts-essentials": "^9.4.0"
   }
