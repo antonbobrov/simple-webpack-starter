@@ -1,5 +1,7 @@
 # Simple starter
 
+## Demo: https://antonbobrov.github.io/simple-webpack-starter/
+
 ## Dev config
 node v20.2.0 \
 npm v9.6.6
