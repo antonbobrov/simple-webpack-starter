@@ -36,7 +36,6 @@
     "sass-loader": "^16.0.1",
     "stylelint": "^14.11.0",
     "stylelint-config-sass-guidelines": "^9.0.1",
-    "ts-essentials": "^10.0.2",
     "ts-loader": "^9.4.4",
     "typescript": "^5.5.4",
     "webpack": "^5.88.2",
@@ -46,6 +45,7 @@
   },
   "dependencies": {
     "@anton.bobrov/vevet-init": "3.17.0",
-    "normalize.css": "^8.0.1"
+    "normalize.css": "^8.0.1",
+    "ts-essentials": "^10.0.2"
   }
 }
