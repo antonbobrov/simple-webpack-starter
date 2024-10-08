@@ -18,7 +18,7 @@
     "> 0.01%"
   ],
   "devDependencies": {
-    "@anton.bobrov/eslint-config": "2.0.2",
+    "@anton.bobrov/eslint-config": "2.0.3",
     "autoprefixer": "^10.4.15",
     "clean-webpack-plugin": "^4.0.0",
     "copy-webpack-plugin": "^12.0.2",
@@ -44,8 +44,8 @@
     "webpack-merge": "^6.0.1"
   },
   "dependencies": {
-    "@anton.bobrov/vevet-init": "3.17.0",
     "normalize.css": "^8.0.1",
-    "ts-essentials": "^10.0.2"
+    "ts-essentials": "^10.0.2",
+    "vevet": "^4.0.1"
   }
 }
